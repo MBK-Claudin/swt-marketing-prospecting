@@ -79,8 +79,8 @@ Chaîne standard quand Claudin lance une campagne complète :
 
 1. **Cadrer la campagne** — avec Claudin : **segment** (A / B), **secteur**
    (défaut = cœur de cible : cabinets de conseil / ESN), **zone** (France/IDF,
-   Gabon…), **volume** (ex. 20), **canal** (email / LinkedIn / les deux). Défaut si
-   rien n'est précisé : cabinets de conseil, France (IDF), segment B, 20 prospects.
+   Gabon…), **volume** (ex. 10), **canal** (email / LinkedIn / les deux). Défaut si
+   rien n'est précisé : cabinets de conseil, France (IDF), segment B, 10 prospects.
 2. **Déléguer à [[01-ciblage]]** — construit la liste brute → `output/prospects.md`,
    `Statut : à qualifier`.
 3. **Déléguer à [[02-qualification]]** — enrichit, score, tranche A/B, recommande

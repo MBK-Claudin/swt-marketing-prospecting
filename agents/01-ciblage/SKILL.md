@@ -44,11 +44,11 @@ Avant de chercher, clarifier avec Claudin (si non fourni) :
 - **Segment visé** : A (numérisation) ou B (org SF existante) ? Voir [[icp]].
 - **Secteur** : cœur de cible = cabinets de conseil / ESN ; sinon secteur précisé.
 - **Zone** : France (IDF ?) / Gabon / Afrique centrale.
-- **Volume** souhaité (ex. 20, 50 prospects).
+- **Volume** souhaité (ex. 10, 50 prospects).
 - **Canal de contact** prévu (email, LinkedIn, les deux) — oriente les infos à collecter.
 
 Si Claudin ne précise rien → proposer par défaut le cœur de cible démontré :
-**cabinets de conseil en France (IDF), segment B**, volume 20.
+**cabinets de conseil en France (IDF), segment B**, volume 10.
 
 ### Étape 2 — Traduire l'ICP en requêtes (Mode GUIDE)
 Générer des requêtes prêtes à coller. Exemples à adapter :
