@@ -42,9 +42,9 @@ la qualifie, puis rédige les messages de prise de contact.
 
 | Sous-agent | Entrée | Sortie | Ne fait PAS |
 |---|---|---|---|
-| **[[01-ciblage]]** · [`agents/ciblage/SKILL.md`](agents/ciblage/SKILL.md) | [[icp]] + brief de campagne (segment, secteur, zone, volume) | Liste brute dans `output/prospects.md`, `Statut : à qualifier` (identité du prospect) | Ne score pas, ne rédige pas, n'envoie pas |
-| **[[02-qualification]]** · [`agents/qualification/SKILL.md`](agents/qualification/SKILL.md) | Prospects `à qualifier` + [[icp]] | Mêmes prospects enrichis : segment A/B, signaux, score → température, preuve + angle, `Statut : qualifié` (ou `écarté`) | Ne source pas, ne rédige pas, n'envoie pas |
-| **[[03-redaction]]** · [`agents/redaction/SKILL.md`](agents/redaction/SKILL.md) | Prospects `qualifié` (signal + angle + preuve + canal) + [[messaging-prospection]] | Un fichier par prospect dans `output/messages/[entreprise].md` (séquence email + LinkedIn) | Ne cible pas, ne qualifie pas, **n'envoie pas** ; refuse de rédiger sans matière (renvoie à 02) |
+| **[[01-ciblage]]** · [`agents/01-ciblage/SKILL.md`](agents/01-ciblage/SKILL.md) | [[icp]] + brief de campagne (segment, secteur, zone, volume) | Liste brute dans `output/prospects.md`, `Statut : à qualifier` (identité du prospect) | Ne score pas, ne rédige pas, n'envoie pas |
+| **[[02-qualification]]** · [`agents/02-qualification/SKILL.md`](agents/02-qualification/SKILL.md) | Prospects `à qualifier` + [[icp]] | Mêmes prospects enrichis : segment A/B, signaux, score → température, preuve + angle, `Statut : qualifié` (ou `écarté`) | Ne source pas, ne rédige pas, n'envoie pas |
+| **[[03-redaction]]** · [`agents/03-redaction/SKILL.md`](agents/03-redaction/SKILL.md) | Prospects `qualifié` (signal + angle + preuve + canal) + [[messaging-prospection]] | Un fichier par prospect dans `output/messages/[entreprise].md` (séquence email + LinkedIn) | Ne cible pas, ne qualifie pas, **n'envoie pas** ; refuse de rédiger sans matière (renvoie à 02) |
 
 ---
 
